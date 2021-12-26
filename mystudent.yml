@@ -1,0 +1,16 @@
+--- 
+mystudents:
+- name: manu
+  phno: 143
+  address:
+    - doorno: 534
+    - streetno: 2nd
+    - city: hyd
+    - pincode:500048
+- name: grace
+  phno: 555
+  address:
+     - doorno: 345
+     - streetno: 4th
+     - city: hyd
+     - pincode: 500049   
